@@ -1,0 +1,9 @@
+﻿  Fruta.cpp
+C:\Users\mati\Desktop\catchfruit\catchfruit\TrabajoFinal\Fruta.h(3,10): fatal error C1083: No se puede abrir el archivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  Juego.cpp
+C:\Users\mati\Desktop\catchfruit\catchfruit\TrabajoFinal\Juego.h(3,10): fatal error C1083: No se puede abrir el archivo incluir: 'SFML\Graphics.hpp': No such file or directory
+  main.cpp
+C:\Users\mati\Desktop\catchfruit\catchfruit\TrabajoFinal\juego.h(3,10): fatal error C1083: No se puede abrir el archivo incluir: 'SFML\Graphics.hpp': No such file or directory
+  Player.cpp
+C:\Users\mati\Desktop\catchfruit\catchfruit\TrabajoFinal\Player.h(3,10): fatal error C1083: No se puede abrir el archivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  Generando código...

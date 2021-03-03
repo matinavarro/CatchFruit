@@ -1,0 +1,25 @@
+﻿  Juego.cpp
+C:\Users\mati\Desktop\catchfruit\catchfruit\TrabajoFinal\Juego.cpp(63,8): warning C4101: 'dt': variable local sin referencia
+C:\Users\mati\Desktop\catchfruit\catchfruit\TrabajoFinal\Juego.cpp(166,65): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\mati\Desktop\catchfruit\catchfruit\TrabajoFinal\Juego.cpp(166,53): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Player.cpp
+  main.cpp
+  Generando código...
+C:\Users\mati\Desktop\catchfruit\catchfruit\TrabajoFinal\Juego.cpp(88): warning C4715: 'Juego::Puntaje': no todas las rutas de acceso de control devuelven un valor
+  TrabajoFinal.vcxproj -> C:\Users\mati\Desktop\catchfruit\catchfruit\x64\Debug\TrabajoFinal.exe
